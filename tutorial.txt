@@ -1,0 +1,18 @@
+- instalar o mingw
+- colocar C:\MinGW\bin nas variáveis de ambiente e de sistema
+- instalar o vs code
+- instalar os pacotes de compilação e desenvolvimento de C/C++ no vs code
+- instalar o git
+- configurar o usuário e email do git:
+  git config --global user.name JoelFelipe
+  git config --global user.email joelfelipe@gmail.com
+- criar a branch master e commitar
+ git checkout master
+ git add .
+ git commit -m "primeiro commit"
+- para criar as demais branches:
+ git checkout -b novabranch
+- tem vários outros comandos de git, mas esses são os principais
+agora vamos linkar um repositório do github a um repositório local
+e depois fazer um git push
+
