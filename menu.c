@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//incluindo comentário no menu
 
 int sair() {
     char resposta;
